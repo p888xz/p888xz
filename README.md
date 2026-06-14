@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/p888xz/)
 ![Linux](https://shields.io)
 ![Bash](https://shields.io)
 ![Git](https://shields.io)
+-->
+
